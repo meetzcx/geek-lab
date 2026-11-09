@@ -4,9 +4,11 @@
 - 2026-10-30 ✅ daily check-in
 - 2026-10-31 ✅ daily check-in
 - 2026-11-01 ✅ daily check-in
+- 2026-11-02 ✅ daily check-in
 - 2026-11-03 ✅ daily check-in
 - 2026-11-04 ✅ daily check-in
 - 2026-11-05 ✅ daily check-in
 - 2026-11-06 ✅ daily check-in
 - 2026-11-07 ✅ daily check-in
+- 2026-11-08 ✅ daily check-in
 - 2026-11-09 ✅ daily check-in
