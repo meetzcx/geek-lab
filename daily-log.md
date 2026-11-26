@@ -36,3 +36,4 @@
 - 2026-11-24 ✅ bonus check-in
 - 2026-11-25 ✅ daily check-in
 - 2026-11-25 ✅ bonus check-in
+- 2026-11-26 ✅ daily check-in
